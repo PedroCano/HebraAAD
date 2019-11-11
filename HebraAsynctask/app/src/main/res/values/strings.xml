@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HebraAsynctask</string>
+    <string name="tvHijo">NUEVA ACTIVIDAD!</string>
+    <string name="btLanzar">lanzar hebra</string>
+</resources>
